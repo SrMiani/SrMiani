@@ -40,4 +40,4 @@ AI Engineer in the making — Python Developer transitioning into Agentic AI, RA
 ---
 
 ### 📫 Let's connect
-[LinkedIn](https://linkedin.com/in/TU-USUARIO) · sergi.miani@gmail.com
+[LinkedIn](https://linkedin.com/in/sergi-miani-bonilla-a0038812b/) · sergi.miani@gmail.com
