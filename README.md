@@ -6,7 +6,7 @@ AI Engineer in the making — Python Developer transitioning into Agentic AI, RA
 
 ### 🚀 Featured Projects
 
-**[PlatePicker](https://github.com/SrMiani/platepicker)** — Multimodal RAG + multi-agent recommendation system for restaurants and recipes, with tool access via MCP.
+**[FRS(Food Recommendation System)](https://github.com/SrMiani/platepicker)** — Multimodal RAG + multi-agent recommendation system for restaurants and recipes, with tool access via MCP.
 `Python` `LangChain` `LangGraph` `CrewAI` `ChromaDB` `MCP` `Embedding Models` `RAG`
 
 **[Hotel Booking System](https://github.com/SrMiani/hotel-booking-system-aws)** — Serverless microservices architecture for hotel booking management on AWS.
